@@ -37,7 +37,7 @@ We compare the quality of the embeddings obtained with DLVMM to the following wo
 
 IM             |  CR|  HSTW
 :-------------------------:|:-------------------------:|:-------------------------:
-![Figure 1 ](https://github.com/DiVeWord/DLVMM/figs/q1.eps  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q5.eps  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q4.eps "Title")
+![Figure 1 ](https://github.com/DiVeWord/DLVMM/tree/master/figs/q1.eps  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q5.eps  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q4.eps "Title")
 PO             |  YR|  QS
 ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q2.eps "Title") |![Figure 1 ](https://github.com/DiVeWord/DLVMM/figs/q3.eps "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/figs/q6.eps "Title")
 
