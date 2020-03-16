@@ -37,9 +37,9 @@ We compare the quality of the embeddings obtained with DLVMM to the following wo
 
 IM             |  CR|  HSTW
 :-------------------------:|:-------------------------:|:-------------------------:
-![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png "Title")
+![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q1.eps  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q5.eps  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q4.eps "Title")
 PO             |  YR|  QS
-![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/question(1).png "Title")
+![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q2.eps "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q3.eps "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/q6.eps "Title")
 
 
 Our results showed that DiVe overcome four popular word embedding, namely Word2Vec, Glove, FastText e Bayesian Skip Gram, and more than 9 datasets.
