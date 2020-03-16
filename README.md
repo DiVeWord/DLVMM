@@ -37,9 +37,9 @@ We compare the quality of the embeddings obtained with DLVMM to the following wo
 
 IM             |  CR|  HSTW
 :-------------------------:|:-------------------------:|:-------------------------:
-![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/polarity(1).png  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/polarity(1).png  "Title")|![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/polarity(1).png "Title")
+![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png "Title")
 PO             |  YR|  QS
-![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/polarity(1).png "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/polarity(1).png "Title")|![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/question(1).png "Title")
+![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/polarity(1).png "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/question(1).png "Title")
 
 
 Our results showed that DiVe overcome four popular word embedding, namely Word2Vec, Glove, FastText e Bayesian Skip Gram, and more than 9 datasets.
@@ -51,7 +51,7 @@ of p-values < 0.05.
 
 Glove             |  Word2Vec|  All baselines for all datasets
 :-------------------------:|:-------------------------:|:-------------------------:
-![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/heatglove.png  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/heatw2v.png  "Title")|![Figure 1 ](https://github.com/DiVeWord/DiVeWordEmbedding/blob/master/figs/cdfs.png "Title")
+![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/heatglove.png  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/heatw2v.png  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/cdfs.png "Title")
 
 ### Reference
 
