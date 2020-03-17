@@ -41,13 +41,6 @@ IM             |  CR|  HSTW
 PO             |  YR|  QS
 ![Figure 1 ](figs/q2.png "Title") |![Figure 1 ](figs/q2.png "Title")|![Figure 1 ](figs/q2.png "Title")
 
-(
-
-
-
-![Figure2](https://github.com/DiVeWord/DLVMM/blob/master/figs/q2.png"Title")
-
-![Figure4](https://github.com/DiVeWord/DLVMM/blob/master/figs/q6.eps)
 Our results showed that DiVe overcome four popular word embedding, namely Word2Vec, Glove, FastText e Bayesian Skip Gram, and more than 9 datasets.
 
 In addition, we conducted a hypothesis test on whether DiVe’s model is in fact different from others, based on McNemar’s test to know more about this test check https://towardsdatascience.com/statistical-tests-for-comparing-machine-learning-and-baseline-performance-4dfc9402e46f and https://machinelearningmastery.com/statistical-significance-tests-for-comparing-machine-learning-algorithms/. In next figures we show the heat maps of p-values for all combinations of DiVe and classifiers and Word2Vec or Glove and classifiers, respectively, in the PO
