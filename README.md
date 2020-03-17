@@ -57,7 +57,7 @@ of p-values < 0.05.
 
 Glove             |  Word2Vec|  All baselines for all datasets
 :-------------------------:|:-------------------------:|:-------------------------:
-![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/heatglove.png  "Title") |  ![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/heatw2v.png  "Title")|![Figure 1 ](https://github.com/DiVeWord/DLVMM/blob/master/figs/cdfs.png "Title")
+![Figure 1 ](figs/hetmapw2.png  "Title") |  ![Figure 1 ](figs/heatw.png  "Title")|![Figure 1 ](figs/heatw.png "Title")
 
 ### Reference
 
